@@ -36,7 +36,8 @@ twitter_username: jekyllrb
 github_username:  jcmanuco6
 
 # Build settings
-theme: minima
+# theme: minima
+theme: minimal-mistakes
 plugins:
   - jekyll-feed
 
